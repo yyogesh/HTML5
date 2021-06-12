@@ -1,0 +1,11 @@
+img {
+    width: 250px;
+}
+
+body {
+    font-size: 16px;
+    /* background-image: url('phone.jpg');
+    background-repeat: no-repeat; */
+
+    background-color: aliceblue;
+}
