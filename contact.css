@@ -1,0 +1,42 @@
+div {
+    background-color: green;
+  }
+
+  div.first {
+    opacity: 0.1;
+  }
+  
+
+  div.second {
+    opacity: 0.3;
+  }
+  
+  div.third {
+    opacity: 0.6;
+  }
+  body {
+      /* background-image: url("https://www.w3schools.com/css/paper.gif") ; */
+  }
+
+  button {
+      background-color: dodgerblue;
+      color: white;
+      /* top right bottom left */
+      /* padding: 10px 20px 30px 40px; */
+      /* padding: 10px; */
+      padding: 10px 40px;
+      border: 2px solid blue;
+      border-radius: 5px;
+  }
+
+  .div-margin {
+      width: 200px;
+      height: 60px;
+      padding: 20px;
+      border: 2px solid;
+      margin: 20px;
+
+      outline-width: 2px;
+      outline-style: dashed;
+      /* box-sizing: border-box; */
+  }

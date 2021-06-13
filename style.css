@@ -7,5 +7,51 @@ body {
     /* background-image: url('phone.jpg');
     background-repeat: no-repeat; */
 
-    background-color: aliceblue;
+    /* background-color: aliceblue; */
 }
+
+#myHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+  }
+
+  .city {
+      background-color: tomato;
+      color: white;
+      padding: 10px;
+  }
+
+  .note {
+    font-size: 120%;
+    color: red;
+  }
+
+  .border-h1 {
+      border-color: #ff6347;
+      border-style: double;
+      border-width: 5px;
+  }
+
+  table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+  }
+
+  td, th {
+      padding: 5px 10px;
+  }
+
+  th {
+      background-color: silver;
+  }
+
+  /* th {
+    border: 1px solid black;
+  }
+
+
+  td {
+    border: 1px solid black;
+  } */
